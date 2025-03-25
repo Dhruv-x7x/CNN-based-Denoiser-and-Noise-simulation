@@ -1,0 +1,15 @@
+epochs = 10
+learning rate = 10
+optimizer = Adam
+loss = MSE
+
+Epoch 1/10, Average Loss: 0.0186
+Epoch 2/10, Average Loss: 0.0055
+Epoch 3/10, Average Loss: 0.0049
+Epoch 4/10, Average Loss: 0.0047
+Epoch 5/10, Average Loss: 0.0045
+Epoch 6/10, Average Loss: 0.0044
+Epoch 7/10, Average Loss: 0.0043
+Epoch 8/10, Average Loss: 0.0042
+Epoch 9/10, Average Loss: 0.0041
+Epoch 10/10, Average Loss: 0.0041
